@@ -1,6 +1,8 @@
 # 💫 About Me:
 
-👋 Hi, I’m Shikhar – Junior Full Stack Developer | Tech Enthusiast | FPS Gamer | Travel Explorer
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Junior+Full+Stack+Developer;React.js+%2B+.NET+Core;FPS+Gamer+%26+Traveler;Welcome+to+my+GitHub!" alt="Typing SVG" />
+</div>
 
 I’m currently working on building seamless web applications at SFA Technologies Pvt Ltd, combining React.js, Tailwind CSS, and .NET Core to craft both intuitive interfaces and scalable backend systems. 
 
@@ -18,13 +20,13 @@ Ask me about my recent trekking adventure, my Clash Royale deck tactics, or my g
 
 Fun fact: I once debugged a critical API issue mid-flight while traveling—proof that code follows me everywhere.
 
-## 🔧 My Toolkit:
+## 💻 Tech Stack & Tools:
 
-* **Frontend:** React.js | Tailwind CSS | CSS
-* **Backend:** ASP.NET Core | RESTful APIs
-* **Database:** Microsoft SQL Server
-* **Tools:** Git | VS Code | Cursor IDE | JetBrains Rider | JetBrains WebStorm | SourceTree | Postman
-
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,tailwind,css,cs,dotnet,git,vscode,rider,webstorm,postman&theme=dark&perline=5" alt="My Skills" />
+  </a>
+</div>
 ## 🚀 Beyond Code:
 
 🎮 Dominating virtual battlegrounds (COD/Valorant/CS2/Clash Royale—let’s squad up!).
