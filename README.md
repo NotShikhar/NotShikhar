@@ -37,6 +37,10 @@ Fun fact: I once debugged a critical API issue mid-flight while traveling—proo
     <img src="https://skillicons.dev/icons?i=react,tailwind,css,cs,dotnet,git,vscode,rider,webstorm,postman&theme=dark&perline=5" alt="My Skills" />
   </a>
 </div>
+
+## ⏱️ Weekly Coding Stats
+
+
 ## 🚀 Beyond Code:
 
 🎮 Dominating virtual battlegrounds (COD/Valorant/CS2/Clash Royale—let’s squad up!).
