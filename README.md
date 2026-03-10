@@ -39,15 +39,8 @@ Fun fact: I once debugged a critical API issue mid-flight while traveling—proo
 </div>
 
 ## ⏱️ Weekly Coding Stats
-
 <!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
-
 ## 🚀 Beyond Code:
 
 * 🎮 Dominating virtual battlegrounds (COD/Valorant/CS2/Clash Royale—let’s squad up!).
