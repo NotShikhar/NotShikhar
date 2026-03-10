@@ -43,8 +43,8 @@ Fun fact: I once debugged a critical API issue mid-flight while traveling—proo
 
 ## 🚀 Beyond Code:
 
-🎮 Dominating virtual battlegrounds (COD/Valorant/CS2/Clash Royale—let’s squad up!).
-✈️ Hunting hidden cafés or mountain trails—travel fuels my creativity.
+* 🎮 Dominating virtual battlegrounds (COD/Valorant/CS2/Clash Royale—let’s squad up!).
+* ✈️ Hunting hidden cafés or mountain trails—travel fuels my creativity.
 
 ## 🌐 Socials:
 
