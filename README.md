@@ -20,6 +20,16 @@ Ask me about my recent trekking adventure, my Clash Royale deck tactics, or my g
 
 Fun fact: I once debugged a critical API issue mid-flight while traveling—proof that code follows me everywhere.
 
+## 🐍 My Contribution Graph:
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NotShikhar/NotShikhar/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NotShikhar/NotShikhar/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NotShikhar/NotShikhar/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
 ## 💻 Tech Stack & Tools:
 
 <div align="center">
