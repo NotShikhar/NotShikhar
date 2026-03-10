@@ -40,6 +40,11 @@ Fun fact: I once debugged a critical API issue mid-flight while traveling—proo
 
 ## ⏱️ Weekly Coding Stats
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 ## 🚀 Beyond Code:
 
