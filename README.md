@@ -1,66 +1,102 @@
-# 💫 About Me:
+# 💫 Welcome to my Terminal:
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Junior+Full+Stack+Developer;React.js+%2B+.NET+Core;FPS+Gamer+%26+Traveler;Welcome+to+my+GitHub!" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=500&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Junior+Full+Stack+Developer;React.js+%2B+.NET+Core;FPS+Gamer+%26+Traveler;Welcome+to+my+GitHub!" alt="Typing SVG" />
+
 </div>
 
-I’m currently working on building seamless web applications at SFA Technologies Pvt Ltd, combining React.js, Tailwind CSS, and .NET Core to craft both intuitive interfaces and scalable backend systems. 
+<br>
 
-**What I'm currently working on:**
-* Developing comprehensive mobile app prototypes for the MP Election Commission.
-* Building and scaling an Examination Management System.
+I’m currently working on building seamless web applications at SFA Technologies Pvt Ltd, combining **React.js**, **Tailwind CSS**, and **.NET Core** to craft both intuitive interfaces and scalable backend systems. 
 
-I’m looking to collaborate on open-source projects or innovative web solutions—especially those bridging gaming and tech!
+### ⚙️ System Status & Objectives
 
-I’m looking for help with mastering advanced .NET Core patterns or optimizing React performance tips.
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <b>🛠️ Currently Executing:</b><br>
+      <ul>
+        <li>Developing comprehensive mobile app prototypes for the MP Election Commission.</li>
+        <li>Building and scaling an Examination Management System.</li>
+      </ul>
+      <b>🌱 Active Downloads (Learning):</b><br>
+      Cloud technologies (Azure/AWS) to expand my full-stack toolkit.
+    </td>
+    <td valign="top" width="50%">
+      <b>🤝 Connection Requests:</b><br>
+      Looking to collaborate on open-source projects or innovative web solutions—especially those bridging gaming and tech! I’m also looking for help with mastering advanced .NET Core patterns or optimizing React performance.<br><br>
+      <b>⚡ System Anomalies (Fun Fact):</b><br>
+      I once debugged a critical API issue mid-flight while traveling—proof that code follows me everywhere.
+    </td>
+  </tr>
+</table>
 
-I’m currently learning cloud technologies (Azure/AWS) to expand my full-stack toolkit.
-
-Ask me about my recent trekking adventure, my Clash Royale deck tactics, or my go-to loadout in Valorant!
-
-Fun fact: I once debugged a critical API issue mid-flight while traveling—proof that code follows me everywhere.
-
-## 🐍 My Contribution Graph:
+## 🐍 Contribution Matrix:
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NotShikhar/NotShikhar/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NotShikhar/NotShikhar/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NotShikhar/NotShikhar/output/github-contribution-grid-snake.svg">
-  </picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NotShikhar/NotShikhar/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NotShikhar/NotShikhar/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NotShikhar/NotShikhar/output/github-contribution-grid-snake.svg">
+</picture>
+
 </div>
 
 ## 💻 Tech Stack & Tools:
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,tailwind,css,cs,dotnet,git,vscode,rider,webstorm,postman&theme=dark&perline=5" alt="My Skills" />
-  </a>
+
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind,css,cs,dotnet,git,vscode,rider,webstorm,postman&theme=dark&perline=10)](https://skillicons.dev)
+
 </div>
 
-## ⏱️ Weekly Coding Stats
-<!--START_SECTION:waka-->
+<br>
 
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
+## ⏱️ Weekly Coding Stats
 ```txt
 TypeScript   52 mins               ██████████████░░░░░░░░░░░   55.51 %
 C#           42 mins               ███████████░░░░░░░░░░░░░░   44.49 %
 JSON         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
+🚀 Beyond Code:
+<ul>
+<li>🎮 <b>Dominating virtual battlegrounds</b> (COD/Valorant/CS2/Clash Royale—ask about my deck tactics or go-to loadout, let’s squad up!).</li>
+<li>✈️ <b>Hunting hidden cafés or mountain trails</b>—ask about my recent trekking adventure, travel fuels my creativity.</li>
+</ul>
 
-<!--END_SECTION:waka-->
-## 🚀 Beyond Code:
+📊 Telemetry Data:
+<p align="left">
+<a href="https://github.com/NotShikhar">
+<img src="https://github-readme-stats.vercel.app/api?username=NotShikhar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0e0e16" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/NotShikhar">
+<img src="https://streak-stats.demolab.com/?user=NotShikhar&theme=tokyonight&hide_border=true&background=0e0e16" alt="GitHub Streak" />
+</a>
+</p>
+<p align="left">
+<a href="https://github.com/NotShikhar">
+<img src="https://komarev.com/ghpvc/?username=NotShikhar&color=00F0FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</a>
+</p>
 
-* 🎮 Dominating virtual battlegrounds (COD/Valorant/CS2/Clash Royale—let’s squad up!).
-* ✈️ Hunting hidden cafés or mountain trails—travel fuels my creativity.
-
-## 🌐 Socials:
-
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=flat&logo=discord&logoColor=white)](https://discord.gg/not.shikhar007) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/not.shikhar) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shikhar-sinha-1b89b2292) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shikharsinha08@gmail.com)
-
-## 📊 GitHub Stats:
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=NotShikhar&theme=tokyonight)](https://github.com/NotShikhar)
-[![Profile Views](https://komarev.com/ghpvc/?username=NotShikhar&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/NotShikhar)
+🌐 Secure Network Links:
+<p align="left">
+<a href="https://discord.gg/not.shikhar007">
+<img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+</a>
+<a href="https://instagram.com/not.shikhar">
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="https://www.linkedin.com/in/shikhar-sinha-1b89b2292">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:shikharsinha08@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+</p>
