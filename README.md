@@ -42,7 +42,9 @@ Fun fact: I once debugged a critical API issue mid-flight while traveling—proo
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TypeScript   52 mins               ██████████████░░░░░░░░░░░   55.51 %
+C#           42 mins               ███████████░░░░░░░░░░░░░░   44.49 %
+JSON         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
