@@ -38,6 +38,12 @@ I’m currently working on building seamless web applications at SFA Technologie
   <img src="https://raw.githubusercontent.com/NotShikhar/NotShikhar/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Grid" width="100%" />
 </div>
 
+### 🛠️ Featured Projects
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NotShikhar&repo=Crown-Control-App&theme=tokyonight" />
+</div>
+
 ## 💻 Tech Stack & Tools:
 
 <div align="center">
