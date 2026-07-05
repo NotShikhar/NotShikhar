@@ -8,7 +8,7 @@
 
 <br>
 
-I’m currently working on building seamless web applications at SFA Technologies Pvt Ltd, combining **React.js**, **Tailwind CSS**, and **.NET Core** to craft both intuitive interfaces and scalable backend systems. 
+I’m currently working on building seamless web applications at SFA Technologies Pvt Ltd, combining **React.js**, **Tailwind CSS**, and **.NET Core** to craft both intuitive interfaces and scalable backend systems. yy
 
 ### ⚙️ System Status & Objectives
 
